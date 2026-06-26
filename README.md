@@ -10,6 +10,6 @@
 - [Open Sample 3 high](https://blues0910.github.io/Apical3DTip/Fig.%203_data/high/Sample%203_high.html)
 
 ## Fig. 4 3D reconstruction viewer
-- [Open Sample 4 normal](https://blues0910.github.io/Apical3DTip/Fig.%204_data/3D reconstruction/Sample%204.html)
-- [Open Sample 5 normal](https://blues0910.github.io/Apical3DTip/Fig.%204_data/3D reconstruction/Sample%205.html)
-- [Open Sample 6 normal](https://blues0910.github.io/Apical3DTip/Fig.%204_data/3D reconstruction/Sample%206.html)
+- [Open Sample 4 normal](https://blues0910.github.io/Apical3DTip/Fig.%204_data/3D%20reconstruction/Sample%204.html)
+- [Open Sample 5 normal](https://blues0910.github.io/Apical3DTip/Fig.%204_data/3D%20reconstruction/Sample%205.html)
+- [Open Sample 6 normal](https://blues0910.github.io/Apical3DTip/Fig.%204_data/3D%20reconstruction/Sample%206.html)
