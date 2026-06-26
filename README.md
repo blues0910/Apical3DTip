@@ -1,1 +1,6 @@
 # Apical3DTip
+## Fig. 3 high-resolution 3D viewer
+
+- [Open Sample 1 high](https://blues0910.github.io/Apical3DTip/Fig.%203_data/high/Sample%201_high.html)
+- [Open Sample 2 high](https://blues0910.github.io/Apical3DTip/Fig.%203_data/high/Sample%202_high.html)
+- [Open Sample 3 high](https://blues0910.github.io/Apical3DTip/Fig.%203_data/high/Sample%203_high.html)
