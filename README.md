@@ -22,6 +22,6 @@
 ## Root hair：Normal-resolution 3D viewer
 
 ## Root hair：High-resolution 3D viewer
-- [Open Sample 4 Volumes of the daughter cells](https://blues0910.github.io/Apical3DTip/root_hair/high/root_hair_sample%201_high.html)
-- [Open Sample 5 Volumes of the daughter cells](https://blues0910.github.io/Apical3DTip/root_hair/high/root_hair_sample%203_high.html)
-- [Open Sample 6 Volumes of the daughter cells](https://blues0910.github.io/Apical3DTip/root_hair/high/root_hair_sample%204_high.html)
+- [Open Sample 1 high of root hair](https://blues0910.github.io/Apical3DTip/root_hair/high/root_hair_sample%201_high.html)
+- [Open Sample 2 high of root hair](https://blues0910.github.io/Apical3DTip/root_hair/high/root_hair_sample%203_high.html)
+- [Open Sample 3 high of root hair](https://blues0910.github.io/Apical3DTip/root_hair/high/root_hair_sample%204_high.html)
