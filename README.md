@@ -18,3 +18,8 @@
 - [Open Sample 4 Volumes of the daughter cells](https://blues0910.github.io/Apical3DTip/Fig.%204_data/Volumes%20of%20the%20daughter%20cells/Sample%204.html)
 - [Open Sample 5 Volumes of the daughter cells](https://blues0910.github.io/Apical3DTip/Fig.%204_data/Volumes%20of%20the%20daughter%20cells/Sample%205.html)
 - [Open Sample 6 Volumes of the daughter cells](https://blues0910.github.io/Apical3DTip/Fig.%204_data/Volumes%20of%20the%20daughter%20cells/Sample%206.html)
+
+## Fig. 3D reconstruction of root hairs 3D viewer
+- [Open Sample 4 Volumes of the daughter cells](https://blues0910.github.io/Apical3DTip/Fig.%204_data/Volumes%20of%20the%20daughter%20cells/Sample%204.html)
+- [Open Sample 5 Volumes of the daughter cells](https://blues0910.github.io/Apical3DTip/Fig.%204_data/Volumes%20of%20the%20daughter%20cells/Sample%205.html)
+- [Open Sample 6 Volumes of the daughter cells](https://blues0910.github.io/Apical3DTip/Fig.%204_data/Volumes%20of%20the%20daughter%20cells/Sample%206.html)
